@@ -32,3 +32,27 @@ Every article is designed to compare related AWS security services, explain arch
 The objective is to help readers develop the decision-making mindset of an AWS Security Engineer rather than simply learning AWS services in isolation.
 
 ---
+## Repository Structure
+
+The repository is organized into logical sections, with each section focusing on a specific AWS security objective.
+
+Each section contains a collection of decision-based comparison articles that build upon one another to develop practical AWS security knowledge.
+
+```text
+aws-security-decision-guide
+│
+├── README.md
+├── LICENSE
+│
+├── 01-Section-1
+├── 02-Section-2
+├── 03-Section-3
+├── 04-Section-4
+├── 05-Section-5
+├── 06-Section-6
+└── ...
+```
+
+As the guide grows, additional sections will be added while maintaining a consistent structure and learning progression.
+
+---
